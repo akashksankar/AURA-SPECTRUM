@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Audio-Reactive Ambient Player",
+  "description": "An immersive audio-reactive music player and ambient visualizer with live frequency spectrums, reactive side lights, and real-time audio sound treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
